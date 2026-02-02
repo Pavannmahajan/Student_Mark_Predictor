@@ -63,7 +63,7 @@ pip install -r requirements.txt
 mkdir templates
 move index.html templates/
 ```
-*(On Mac/Linux use `mv` instead of `move`)*
+
 
 ### 4. Run the application
 ```bash
